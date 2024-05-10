@@ -1,0 +1,6 @@
+framework module income_tax_sdk {
+  umbrella header "income_tax_sdk.h"
+  export *
+
+  module * { export * }
+}
