@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		viBTTyNp3+vPeqfEXhjKQHQLaXc=
+		1/FY0H2riLJ4Wxo/5Y0ceivwk3A=
 		</data>
 		<key>Headers/income_tax_sdk.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NFfoDlEW7Lz0IG4lHt8uPe8cRik=
+		Z5mk+1fkR+D+tsekUFRUYuZsZ2o=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hDjGPeJAbK83RQJubfKo62iI9ZI=
+		f0ZEEIVjivDDHbSSuSYIYNJClJk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iehHtK93DznCTu2hrBtaGdVWlBOF9+f+zXrPzE8olh4=
+			yb+gXS5+gjCLlnqUosI/dTio428KTHLhMlGa2/ZbcCk=
 			</data>
 		</dict>
 		<key>Headers/income_tax_sdk.h</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XNEr68q98ALDdeFF9z3J4zECr/gDR+mx0bg3fe0U/9s=
+			LXymPEgt0tr2BdnvmQC/kqrNXIbrGu03PElNoCYru6A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
