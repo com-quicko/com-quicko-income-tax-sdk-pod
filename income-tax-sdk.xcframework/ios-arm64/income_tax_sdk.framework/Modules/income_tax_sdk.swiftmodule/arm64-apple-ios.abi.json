@@ -542,7 +542,7 @@
       "kind": "StringLiteral",
       "offset": 453,
       "length": 65,
-      "value": "\"https:\/\/28yq9t6oe2.execute-api.ap-south-1.amazonaws.com\/dev\/app\""
+      "value": "\"https:\/\/lapnkc33sc.execute-api.ap-south-1.amazonaws.com\/uat\/app\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppViewController.swift",
