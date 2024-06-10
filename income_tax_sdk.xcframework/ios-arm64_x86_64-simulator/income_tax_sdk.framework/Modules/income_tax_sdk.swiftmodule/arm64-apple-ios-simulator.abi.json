@@ -252,6 +252,30 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -541,8 +565,36 @@
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/services\/app\/App.service.swift",
       "kind": "StringLiteral",
       "offset": 453,
-      "length": 65,
-      "value": "\"https:\/\/lapnkc33sc.execute-api.ap-south-1.amazonaws.com\/uat\/app\""
+      "length": 66,
+      "value": "\"https:\/\/3de2fjn54b.execute-api.ap-south-1.amazonaws.com\/prod\/app\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
+      "kind": "StringLiteral",
+      "offset": 242,
+      "length": 6,
+      "value": "\"mode\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
+      "kind": "StringLiteral",
+      "offset": 253,
+      "length": 6,
+      "value": "\"dark\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
+      "kind": "StringLiteral",
+      "offset": 319,
+      "length": 6,
+      "value": "\"seed\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
+      "kind": "StringLiteral",
+      "offset": 330,
+      "length": 9,
+      "value": "\"#2962FF\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppViewController.swift",
@@ -550,6 +602,41 @@
       "offset": 157,
       "length": 32,
       "value": "\"income_tax_sdk.IncomeTaxMobileAppViewController\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/utils\/UIColorExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 366,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
+      "kind": "StringLiteral",
+      "offset": 359,
+      "length": 6,
+      "value": "\"mode\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
+      "kind": "StringLiteral",
+      "offset": 370,
+      "length": 6,
+      "value": "\"dark\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
+      "kind": "StringLiteral",
+      "offset": 2054,
+      "length": 6,
+      "value": "\"mode\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
+      "kind": "StringLiteral",
+      "offset": 2065,
+      "length": 6,
+      "value": "\"dark\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/beans\/api\/APIResponse.swift",
@@ -617,7 +704,7 @@
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/IncomeTaxWebView.swift",
       "kind": "StringLiteral",
-      "offset": 1373,
+      "offset": 1374,
       "length": 11,
       "value": "\"income_tax_sdk.Coordinator\""
     },
@@ -626,7 +713,7 @@
       "kind": "StringLiteral",
       "offset": 511,
       "length": 73,
-      "value": "\"https:\/\/d12ldzklkk1lqk.cloudfront.net\/api\/com-quicko-connect-sdk-splash\""
+      "value": "\"https:\/\/d1zihc7j8j5iiw.cloudfront.net\/api\/com-quicko-connect-sdk-splash\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/beans\/splash\/SplashContent.swift",
