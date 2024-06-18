@@ -32,6 +32,13 @@
         "moduleName": "income_tax_sdk"
       },
       {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
         "kind": "TypeDecl",
         "name": "QuickoSDK",
         "printedName": "QuickoSDK",
@@ -171,6 +178,28 @@
               "RawDocComment"
             ],
             "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "reset",
+            "printedName": "reset()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14income_tax_sdk9QuickoSDKC5resetyyF",
+            "mangledName": "$s14income_tax_sdk9QuickoSDKC5resetyyF",
+            "moduleName": "income_tax_sdk",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
             "funcSelfKind": "NonMutating"
           },
           {
@@ -704,7 +733,7 @@
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/IncomeTaxWebView.swift",
       "kind": "StringLiteral",
-      "offset": 1374,
+      "offset": 1369,
       "length": 11,
       "value": "\"income_tax_sdk.Coordinator\""
     },

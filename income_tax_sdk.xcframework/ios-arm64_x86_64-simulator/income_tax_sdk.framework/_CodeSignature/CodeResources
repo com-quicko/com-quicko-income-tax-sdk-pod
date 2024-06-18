@@ -18,43 +18,43 @@
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		4kP0vl5EqOwFe8CVqpYdd3cW8I0=
+		zye/aUbaVfDi/emxC0qBf81iAvQ=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		6jsywRQ6Zf9w2lWew/4WIPkqCmE=
+		m2wAcftFsLmDXx43MRGbWdweZos=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		qwNVCY6o0Z+jlbyXt6A7QIqeB2A=
+		j7ARF6LXIwuXjAeiZjrn7abO65c=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		6jsywRQ6Zf9w2lWew/4WIPkqCmE=
+		m2wAcftFsLmDXx43MRGbWdweZos=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C4qZ9W6Oa8Zs3hOKRCaZtZ3b4sI=
+		yXJ3/mtgsM4HcmVYSeEjiW28wf8=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		4kP0vl5EqOwFe8CVqpYdd3cW8I0=
+		zye/aUbaVfDi/emxC0qBf81iAvQ=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		URxgfvbd+v5ZLtxtzz24FU7ilzM=
+		ZmFQsDR4HJNZ0s1ihauda7JOCt0=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		80/OBOL02iqAoqclorQfEKEyMg8=
+		SS5gXoqYo2lgoqYj5SnkLGF/VeQ=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		URxgfvbd+v5ZLtxtzz24FU7ilzM=
+		ZmFQsDR4HJNZ0s1ihauda7JOCt0=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1SNIcJJcm/vZu75SVKQ/DAKMAnE=
+		shzUkNe04PnQYiEqmYnZLIrVtO4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPW+lsrAFue7T9V25i2ZxbvHL/0cV8ehuJ0k1YX2Nps=
+			zC1DR70SzW+i4TX7DZ89AsQE9osaV9Cb30zF8IVn9hI=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zd4DSXHHkFIWhxR8BBBFz3qmjN+YK65kWiO53Axk6e0=
+			YGzR/rEyvMsF7zK1DvEOeBacCfyiwxpLcPDJjO2JeG0=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eT99p9fLSw1ShwLDwpEvdbJB7jgiCDvP3x1EhOJltLs=
+			bBddm+ej5pNsQoBvnhgmVaaqn7h00T/QZqj9oxWntgM=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zd4DSXHHkFIWhxR8BBBFz3qmjN+YK65kWiO53Axk6e0=
+			YGzR/rEyvMsF7zK1DvEOeBacCfyiwxpLcPDJjO2JeG0=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ws/7pI0omgz2v1sIvAuZUEXbxOVxbd8x3uJ8BzqaJw=
+			RnpxCmEFGhAEYNV5yuAls9eCtn3IAD9rhG1vDFC/KsM=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPW+lsrAFue7T9V25i2ZxbvHL/0cV8ehuJ0k1YX2Nps=
+			zC1DR70SzW+i4TX7DZ89AsQE9osaV9Cb30zF8IVn9hI=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i8uC8JJ8pfiSG5HAqsp+d6TZ8dtGcWZV255tDoObMVI=
+			9X03vKJf9TgJkkbR9KfbZ5VdKc30z4ZXmQKLuqgqQuc=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SSjS7vQnb3ZY5NHyOeKzXSNS2MPZ9KsBv7BSV3+EQbw=
+			6kmSCDb+qQZtmhsc/OIau9x7UPoD+0l9mVbhVL0eGOE=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i8uC8JJ8pfiSG5HAqsp+d6TZ8dtGcWZV255tDoObMVI=
+			9X03vKJf9TgJkkbR9KfbZ5VdKc30z4ZXmQKLuqgqQuc=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kaz+6JICYmFOog8sqW7np9tY75DZNDCbfKjleGR/2dA=
+			Zexhrfe3753vx+7NPlX8azsaFTwAsDFI+zzrhsv0O7M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

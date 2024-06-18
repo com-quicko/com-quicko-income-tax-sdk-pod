@@ -17,6 +17,7 @@ import _SwiftConcurrencyShims
   #if compiler(>=5.3) && $AsyncAwait
   @_Concurrency.MainActor open func open(controller: UIKit.UIViewController, options: [Swift.String : Any]?) async throws
   #endif
+  open func reset()
   open func setEventListener(eventListener: any income_tax_sdk.EventListener)
   @objc deinit
 }
