@@ -10,6 +10,6 @@ Embed tax solutions directly into your app. Years of expertise in solving taxes 
   s.author           = { "Quicko Developer" => "developer@quicko.com" }
   s.platform         = :ios, "14.0"
   s.swift_version    = '5.0'
-  s.source           = { :git => "https://github.com/com-quicko/com-quicko-income-tax-sdk-pod.git", :branch => "main" }
+  s.source           = { :git => "https://github.com/com-quicko/com-quicko-income-tax-sdk-pod.git", :branch => "uat" }
   s.vendored_frameworks = "income_tax_sdk.xcframework"
 end
