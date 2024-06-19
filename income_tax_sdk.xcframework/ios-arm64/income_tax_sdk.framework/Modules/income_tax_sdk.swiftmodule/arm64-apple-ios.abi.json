@@ -247,10 +247,7 @@
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
-        "moduleName": "income_tax_sdk",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "income_tax_sdk"
       },
       {
         "kind": "Import",
@@ -607,28 +604,28 @@
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
       "kind": "StringLiteral",
-      "offset": 242,
+      "offset": 135,
       "length": 6,
       "value": "\"mode\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
       "kind": "StringLiteral",
-      "offset": 253,
+      "offset": 146,
       "length": 6,
       "value": "\"dark\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
       "kind": "StringLiteral",
-      "offset": 319,
+      "offset": 212,
       "length": 6,
       "value": "\"seed\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/income-tax-mobile-app\/IncomeTaxMobileAppView.swift",
       "kind": "StringLiteral",
-      "offset": 330,
+      "offset": 223,
       "length": 9,
       "value": "\"#2962FF\""
     },
