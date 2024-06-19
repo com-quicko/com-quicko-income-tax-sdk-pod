@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "income-tax-sdk-pod"
+  s.name             = "IncomeTaxSDK"
   s.version          = "1.0.0-RC"
   s.summary          = "Quicko Connect's income tax iOS SDK"
   s.description      = <<-DESC
