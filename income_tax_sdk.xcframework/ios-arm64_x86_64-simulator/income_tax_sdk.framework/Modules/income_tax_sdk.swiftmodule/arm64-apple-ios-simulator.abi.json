@@ -553,6 +553,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
+        "kind": "Import",
         "name": "WebKit",
         "printedName": "WebKit",
         "declKind": "Import",
@@ -656,14 +663,28 @@
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
       "kind": "StringLiteral",
-      "offset": 2054,
+      "offset": 436,
+      "length": 6,
+      "value": "\"seed\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
+      "kind": "StringLiteral",
+      "offset": 447,
+      "length": 9,
+      "value": "\"#2962FF\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
+      "kind": "StringLiteral",
+      "offset": 2169,
       "length": 6,
       "value": "\"mode\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/feature-it-fy-24\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
       "kind": "StringLiteral",
-      "offset": 2065,
+      "offset": 2180,
       "length": 6,
       "value": "\"dark\""
     },
