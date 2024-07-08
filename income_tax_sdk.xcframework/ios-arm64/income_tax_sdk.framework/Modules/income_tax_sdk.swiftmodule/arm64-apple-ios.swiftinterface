@@ -3,6 +3,7 @@
 // swift-module-flags: -target arm64-apple-ios17.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name income_tax_sdk
 import DeveloperToolsSupport
 import Foundation
+import SafariServices
 import Swift
 import SwiftUI
 import UIKit
