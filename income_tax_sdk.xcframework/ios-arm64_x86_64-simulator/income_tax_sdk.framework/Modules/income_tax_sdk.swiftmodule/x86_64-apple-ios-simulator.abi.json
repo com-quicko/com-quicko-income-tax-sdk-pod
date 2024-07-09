@@ -336,6 +336,37 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "income_tax_sdk"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -681,16 +712,37 @@
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/hotfix-it-sdk\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
       "kind": "StringLiteral",
-      "offset": 2169,
+      "offset": 2599,
       "length": 6,
       "value": "\"mode\""
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/hotfix-it-sdk\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/SplashView.swift",
       "kind": "StringLiteral",
-      "offset": 2180,
+      "offset": 2610,
       "length": 6,
       "value": "\"dark\""
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/hotfix-it-sdk\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/CustomImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 749,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/hotfix-it-sdk\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/CustomImageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 911,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/hotfix-it-sdk\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/ui\/widgets\/CustomImageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 953,
+      "length": 2,
+      "value": "40"
     },
     {
       "filePath": "\/Users\/nachiketa\/code\/work\/com.quicko.it\/hotfix-it-sdk\/common\/ios\/income-tax-sdk\/income-tax-sdk\/lib\/beans\/api\/APIResponse.swift",

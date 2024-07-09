@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		maZEYCYa2ajivtErnaH8rBFFv3w=
+		6jHDQb4YhYn01+rJYK/XidxEJmI=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		yy5KMyx/WbPMrEc2iN3h865YHJ8=
+		kbiJ/0kJ3tG3oK46P8G/vQ84hR8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ef14F9xaBuBfl+9uNnbWsvNeg1GPKwb0n8iVoceIEfQ=
+			WjEQMBZ141nXM7IRdibl/iUWdfKL3amocCC3yVt4Z3I=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1CRo9w4ck9r7K1AP69lJ1jff18Q4t6qDmcA4aVfEOoI=
+			6X/vxdhIgk6eas9MvOi8QFmndj18aCUxxnqA+s08uOs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
