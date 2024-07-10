@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		1/FY0H2riLJ4Wxo/5Y0ceivwk3A=
+		qup65ytTBvh7TvRpJ77FiKk0X5c=
 		</data>
 		<key>Headers/income_tax_sdk.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Hs5uaqFbOSbEhh9CGMzvh/i8Zx8=
+		XBTCywv30y1ByNLT2Z1vZWoXa/E=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		oR4IbiDaCJ7q3bXYBagO/QcUAYM=
+		DOGkgY2EHdjnLMhmf0AoMKpKE3U=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hEfnNmupPR085uL1B8BqCCpm0N8=
+		lC+bqVgogyau5zE/DvNWUcszVMA=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		j7ARF6LXIwuXjAeiZjrn7abO65c=
+		k0AFRDvU1ZolTMuLJuVeWej1YIE=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hEfnNmupPR085uL1B8BqCCpm0N8=
+		lC+bqVgogyau5zE/DvNWUcszVMA=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dumwZGBWUXYgCP+g+5xCdRgan5c=
+		rr0KD8/4ghXaHqSXga7SJTQFjyg=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		oR4IbiDaCJ7q3bXYBagO/QcUAYM=
+		DOGkgY2EHdjnLMhmf0AoMKpKE3U=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PBQ6Q4C32dwnXEU+EXHRmD/rZNw=
+		X+xT2/UajsKUUprUDaxRaFJIbMg=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SS5gXoqYo2lgoqYj5SnkLGF/VeQ=
+		KtClQm3R9gkykyXDCE20JshC7q0=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PBQ6Q4C32dwnXEU+EXHRmD/rZNw=
+		X+xT2/UajsKUUprUDaxRaFJIbMg=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FHVCMgx4ouHr0lV2pFUaRwnlO9I=
+		JIK/LE1H0emhVOZldf449dKJcY4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yb+gXS5+gjCLlnqUosI/dTio428KTHLhMlGa2/ZbcCk=
+			/c6VScY2sZ5m526jndXxU75cU0BM5cWXs7uxOAZfiLs=
 			</data>
 		</dict>
 		<key>Headers/income_tax_sdk.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AmFnLFRvuQ/F9EANyFGCy5KjEIKtzdUc2wZ1AJTLNG8=
+			u4wLEu/o/ahcvpEMOdaoHhKgNYf4DFKbAXy+Anf5tCI=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YyJZnTMrbZwUV3kpW4jYIj9FlarIpuqX6EDbjqlVs3Q=
+			9Nl00c+9+UTss/lLqBCldb6cp8oKvLz8PPjksDlL+sI=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bBddm+ej5pNsQoBvnhgmVaaqn7h00T/QZqj9oxWntgM=
+			pvU7AS580TicNK06cut55uqd+ZjnEOuCvPLtZ6aWT80=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YyJZnTMrbZwUV3kpW4jYIj9FlarIpuqX6EDbjqlVs3Q=
+			9Nl00c+9+UTss/lLqBCldb6cp8oKvLz8PPjksDlL+sI=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ipoxv++7EQo1wlO2NsPJE+O8VTUVWgwEtXsnyxA9bBE=
+			W0zjZeDqWrWnA1QLsFqehJSOaNpJhifAlwuxIjZIhmg=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AmFnLFRvuQ/F9EANyFGCy5KjEIKtzdUc2wZ1AJTLNG8=
+			u4wLEu/o/ahcvpEMOdaoHhKgNYf4DFKbAXy+Anf5tCI=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dv1Hd508qADjfH105HCm2AiIO1rr/Kf7U3k9Yi0OMn8=
+			9T9Moy+U9bU10bIZgxQFko04Pc5d1yLxGV1GwWmzoKs=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6kmSCDb+qQZtmhsc/OIau9x7UPoD+0l9mVbhVL0eGOE=
+			Yw5q2FNrwZJpX1D1I788DlpcafhpbuZAuPD2XWoaQjM=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dv1Hd508qADjfH105HCm2AiIO1rr/Kf7U3k9Yi0OMn8=
+			9T9Moy+U9bU10bIZgxQFko04Pc5d1yLxGV1GwWmzoKs=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RWt3yiVegI8rGjIhzkAFxkFt4Td+flctIyVtENjWefI=
+			Ws/FIo01RGPyw+IXfkip7fjtnvyJkXhPrtgViUtvFyc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
