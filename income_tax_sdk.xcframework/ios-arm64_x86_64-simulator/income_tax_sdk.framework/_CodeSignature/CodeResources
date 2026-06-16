@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1ukC6Y2CYe4bFnDP6I1qrmU7yWI=
+		w0DOCyJl3mvlIwxlexhJXXJlN2I=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		K0DO/+dax13gi63aIfWF8NPBdW8=
+		+QNfeB/b1yv2hQtSIOqK8waKNT0=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NIHe9u2dTMNv9XldYuTxnKMKsuc=
+		HQkozopFIJ87/1ak8RrlNjEGw0M=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		K0DO/+dax13gi63aIfWF8NPBdW8=
+		+QNfeB/b1yv2hQtSIOqK8waKNT0=
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6kY+B5D/gvy7Cy7FRIxbW1+F/0I=
+		+CLsVydZFrpE8fFznGyJosDJHVQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HaZlqcxEU8VYKi8pu/ilxRfu+bDXomI9qFvIxj+qMHw=
+			g2GeNqJHIeDCv9Dq8ZSuteoNrevRIFk3/QiingWs+as=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9kxOL1SJndOAugzAPRPHrRFJCaQYXEl4HlJ9fgE6p+E=
+			gC7U1L+85BC0SxJzQFK15cEGx94LGGoKZjRz3fFYXR8=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HaZlqcxEU8VYKi8pu/ilxRfu+bDXomI9qFvIxj+qMHw=
+			g2GeNqJHIeDCv9Dq8ZSuteoNrevRIFk3/QiingWs+as=
 			</data>
 		</dict>
 		<key>Modules/income_tax_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GLVh1z9XJaqJUni2m+VGW6GgaG0+c8JMAdpKmBfKDSo=
+			zBTaT18Rql8k3Ac3N5fMCUlg7xGpzGiDHUrG0iVgsEs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
